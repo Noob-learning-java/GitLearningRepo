@@ -15,6 +15,8 @@ public class SortingArray {
 		for(int i:a){
 			System.out.print(i+" ");
 		}
+		System.out.println("Done with Sorted Array");
+		System.out.print("Wait what  about while loops");
 	}
 
 }
